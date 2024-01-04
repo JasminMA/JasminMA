@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yasmin Elderiny
+- 👋 Hi, I’m Yasmin
 - 👀 I’m interested in backend engineering and focus on Java programming language, Spring Framework, Microservices and AWS cloud services
 - 🌱 I’m currently learning microservices architecture and clear architecture
 - 💞️ I’m looking to collaborate on open source project
